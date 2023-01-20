@@ -1,0 +1,61 @@
+body {
+  background-color: beige;
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 1200px;
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  background: lightsteelblue;
+  height: 300px;
+  margin: 0px 1px;
+}
+
+section{
+    background-color: greenyellow;
+    margin: 0px 1px;
+}
+
+
+h1 {
+  color: black;
+  font-style: italic;
+  text-decoration: underline;
+  font-weight: bold;
+  text-align: center;
+  margin: 1px 200px 40px 200px;
+}
+
+h2{
+  margin: 0px 30px 0px 20px;
+  font-style: italic;
+  text-decoration: underline;
+  font-weight: bold; 
+}
+
+h3{
+ margin-left: 900px;
+ font-family: 'Raleway', sans-serif;
+}
+
+button{
+    margin-left: 1035px;
+}
+
+#primero{
+  margin-top: 0px;
+}
+
+.imgRedonda {
+    margin:10px 20px 15px 30px;
+    width:250px;
+    height:250px;
+    border-radius:150px;
+    border: 2px solid white;
+}
+
+#segundo {
+     margin: 10px 100px 10px 260px ;
+}
+
